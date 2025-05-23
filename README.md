@@ -1,2 +1,2 @@
 # Web-Scraping
-1st Web Scaping Project
+1st Web Scaping Project Using BeautifulSoup
